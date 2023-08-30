@@ -156,4 +156,13 @@
     .list li:hover .delete-btn {
     opacity: 1;
     }
+
+    footer {
+        background-color: var(--last);
+        padding: 20px;
+        box-shadow: var(--box-shadow);
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 0;
+    }
     
